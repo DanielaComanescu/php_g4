@@ -1,0 +1,19 @@
+
+.leMenu {
+    background-color: darkgray;
+    height: 50px;
+    font-size: 25px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+#boutonUtilisateurs, #boutonAccueil, #boutonPhoto, #boutonObservations{
+    background-color: darkseagreen;
+    height: 50px;
+}
